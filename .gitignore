@@ -7,3 +7,10 @@
 /.project
 /target
 /bin
+
+*.class
+*.log
+target/
+project/
+.idea/
+*.iml

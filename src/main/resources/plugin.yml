@@ -1,5 +1,6 @@
 name: ${project.name}
 version: ${project.version}
+api-version: 1.14
 main: com.github.ucchyocean.et.ExpTimer
 author: ucchy
 description: 経験値バータイマー
